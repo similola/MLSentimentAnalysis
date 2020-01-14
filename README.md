@@ -25,10 +25,10 @@ Essentially the input is each comment and the ouput is the sentiment label (what
 * Selected my column to predict (Sentiment label)
 * Trained my model by selecting the time to train (Model builder actually selects the algorithm to use based on training time which is pretty cool)
 
-#Evaluating model
+# Evaluating model
 Model builder shows you the evaluation of your model. It shows you the best model selected based on your training time, the number of models explored and the the model accuracy(%).
 
-#Consuming model
+# Consuming model
 Model builder also outputs the code to use to consume the model! It adds a console app contianer ModelBuilder.cs which shows how the model was trained(incase I want to retrain later) and also gives you the model as a zip file. After this you can write some simple code to consume your model and try it out on sample data. See below
 
 ```csharp
