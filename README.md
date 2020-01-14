@@ -32,22 +32,22 @@ Model builder shows you the evaluation of your model. It shows you the best mode
 Model builder also outputs the code to use to consume the model! It adds a console app contianer ModelBuilder.cs which shows how the model was trained(incase I want to retrain later) and also gives you the model as a zip file. After this you can write some simple code to consume your model and try it out on sample data. See below
 
 ```csharp
- Console.WriteLine("Welcome to your Review Sentiment Analysis!");
-            Console.WriteLine("******");
-            Console.Write("Please enter your review:");
-            // Add input data
-            var input = new ModelInput();
-            input.Comment = Console.ReadLine();
+Console.WriteLine("Welcome to your Review Sentiment Analysis!");
+Console.WriteLine("******");
+Console.Write("Please enter your review:");
+// Add input data
+var input = new ModelInput();
+input.Comment = Console.ReadLine();
 
-            // Load model and predict output of sample data
-            ModelOutput result = ConsumeModel.Predict(input);
-            if (result.Prediction.Equals(true))
-            {
-                Console.WriteLine("Your review sounds negative. Apologies, we will work on making things better for next time!");
-            }
-            else {
-                Console.WriteLine("Your review sounds positive. Glad you enjoyed it!");
-            }
+// Load model and predict output of sample data
+ModelOutput result = ConsumeModel.Predict(input);
+if (result.Prediction.Equals(true))
+{
+    Console.WriteLine("Your review sounds negative. Apologies, we will work on making things better for next time!");
+}
+else {
+    Console.WriteLine("Your review sounds positive. Glad you enjoyed it!");
+}
 ```
 
 ## How to run this project
