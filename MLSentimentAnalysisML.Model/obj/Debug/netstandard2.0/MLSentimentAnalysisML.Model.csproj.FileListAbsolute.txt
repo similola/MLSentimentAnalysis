@@ -1,9 +1,0 @@
-C:\Users\siawokoy\source\repos\MLSentimentAnalysis\MLSentimentAnalysisML.Model\bin\Debug\netstandard2.0\MLModel.zip
-C:\Users\siawokoy\source\repos\MLSentimentAnalysis\MLSentimentAnalysisML.Model\bin\Debug\netstandard2.0\MLSentimentAnalysisML.Model.deps.json
-C:\Users\siawokoy\source\repos\MLSentimentAnalysis\MLSentimentAnalysisML.Model\bin\Debug\netstandard2.0\MLSentimentAnalysisML.Model.dll
-C:\Users\siawokoy\source\repos\MLSentimentAnalysis\MLSentimentAnalysisML.Model\bin\Debug\netstandard2.0\MLSentimentAnalysisML.Model.pdb
-C:\Users\siawokoy\source\repos\MLSentimentAnalysis\MLSentimentAnalysisML.Model\obj\Debug\netstandard2.0\MLSentimentAnalysisML.Model.csprojAssemblyReference.cache
-C:\Users\siawokoy\source\repos\MLSentimentAnalysis\MLSentimentAnalysisML.Model\obj\Debug\netstandard2.0\MLSentimentAnalysisML.Model.AssemblyInfoInputs.cache
-C:\Users\siawokoy\source\repos\MLSentimentAnalysis\MLSentimentAnalysisML.Model\obj\Debug\netstandard2.0\MLSentimentAnalysisML.Model.AssemblyInfo.cs
-C:\Users\siawokoy\source\repos\MLSentimentAnalysis\MLSentimentAnalysisML.Model\obj\Debug\netstandard2.0\MLSentimentAnalysisML.Model.dll
-C:\Users\siawokoy\source\repos\MLSentimentAnalysis\MLSentimentAnalysisML.Model\obj\Debug\netstandard2.0\MLSentimentAnalysisML.Model.pdb
