@@ -1,6 +1,6 @@
 # ML Sentiment Analysis
 
-A simple C# program that uses a trained ML Model using ML.NET Model Builder to predict sentiment of reviews.
+A simple C# program that uses a trained Machine Learning Model using ML.NET Model Builder to predict sentiment of reviews.
 
 ## Project goals
 
